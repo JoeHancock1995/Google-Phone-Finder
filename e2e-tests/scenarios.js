@@ -24,7 +24,13 @@ describe('PhoneCat Application', function() {
       query.sendKeys('motorola');
       expect(phoneList.count()).toBe(2);
     });
-
+    it('should render phone specific links', function() {
+      var query = element(by.model('$ctrl.query'));
+      query.sendKeys('nexus');
+    
+      element.all(by.css('.phones li a')).first().click();
+      expect(browser.getCurrentUrl()).toContain('index.html#!/phones/nexus-s');
+    });
     it('should be possible to control phone order via the drop-down menu', function() {
       var queryField = element(by.model('$ctrl.query'));
       var orderSelect = element(by.model('$ctrl.orderProp'));
