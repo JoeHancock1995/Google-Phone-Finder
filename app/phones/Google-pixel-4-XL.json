@@ -1,0 +1,71 @@
+{
+    "additionalFeatures": "Contour Display, Near Field Communications (NFC), Three-axis gyroscope, Anti-fingerprint display coating, Internet Calling support (VoIP/SIP)", 
+    "android": {
+        "os": "Android 10", 
+        "ui": "Android"
+    }, 
+    "availability": [
+        "M1,", 
+        "O2,", 
+        "Orange,", 
+        "Singtel,", 
+        "StarHub,", 
+        "T-Mobile,", 
+        "Vodafone"
+    ], 
+    "battery": {
+        "standbyTime": "336 hours", 
+        "talkTime": "30.7 hours", 
+        "type": "Lithium Ion (Li-Ion) (3700 mAH)"
+    }, 
+    "camera": {
+        "features": [
+            "Dual Exposure Controls",
+            "Night Sight 2.0",
+            "Flash", 
+            "Video"
+        ], 
+        "primary": "8.0 megapixels"
+    }, 
+    "connectivity": {
+        "bluetooth": "Bluetooth 5.0", 
+        "cell": "UMTS: Band I (2100), Band II (1900), Band IV (1700/2100), Band V (850), Band VIII (900); GSM: 850 MHz, 900 MHz, 1800 MHz, 1900 MHz; WCDMA: 10, 1, 0; LTE: 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 38, 39, 40, 41, 46, 48, 66, 71", 
+        "gps": true, 
+        "infrared": false, 
+        "wifi": "802.11 b/g/n"
+    }, 
+    "description": "Pixel 4 XL is the phone made the Google way. Its camera takes the perfect shot every time, even when it's dark out. The new Google Assistant helps you do things like control your phone and multitask between apps–with just your voice. Pixel 4 XL is also the first phone with Motion Sense™, Google's way of letting you use gestures to get things done without having to touch your phone. Best of all, it's built around the Google software you know and love that's always getting better.", 
+    "display": {
+        "screenResolution": "WVGA (800 x 480)", 
+        "screenSize": "6.3 inches", 
+        "touchScreen": true
+    }, 
+    "hardware": {
+        "accelerometer": true, 
+        "audioJack": "3.5mm", 
+        "cpu": "Qualcomm® Snapdragon™ 855 - 2.84GHz + 1.78GHz 64-bit Octa-Core Processor", 
+        "fmRadio": false, 
+        "physicalKeyboard": false, 
+        "usb": "USB C"
+    }, 
+    "id": "Google Pixel 4 XL", 
+    "images": [
+        "img/phones/Google-Pixel-4-XL-front", 
+        "img/phones/Google-Pixel-4-XL-back.jpg", 
+        "img/phones/Google-Pixel-4-XL-side.jpg", 
+        "img/phones/Google-Pixel-4-XL-back-and-front.jpg"
+    ], 
+    "name": "Google Pixel 4 XL", 
+    "sizeAndWeight": {
+        "dimensions": [
+            "75.1 mm (w)", 
+            "160.4 mm (h)", 
+            "8.2 mm (d)"
+        ], 
+        "weight": "192.8 grams"
+    }, 
+    "storage": {
+        "flash": "64000MB", 
+        "ram": "6000MB"
+    }
+}

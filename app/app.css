@@ -17,10 +17,10 @@ text-align: center;
 margin-top: 1%;
 font-family: 'ticketing';
 font-size: 20px;
-color: red;
+color: rgb(0, 0, 0);
 }
 input {
-  border-radius: 1px;
+  border-radius: 10px;
 }
 .title {
   color: yellow;
