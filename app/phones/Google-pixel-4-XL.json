@@ -50,10 +50,10 @@
     }, 
     "id": "Google Pixel 4 XL", 
     "images": [
-        "img/phones/Google-Pixel-4-XL-front", 
+        "img/phones/Google-Pixel-4-XL-front.jpg", 
         "img/phones/Google-Pixel-4-XL-back.jpg", 
         "img/phones/Google-Pixel-4-XL-side.jpg", 
-        "img/phones/Google-Pixel-4-XL-back-and-front.jpg"
+        "img/phones/Google-Pixel-4-back-and-front.jpg"
     ], 
     "name": "Google Pixel 4 XL", 
     "sizeAndWeight": {
